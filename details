@@ -1,0 +1,390 @@
+{
+"html_attributions": [],
+"result": {
+"address_components": [
+{
+"long_name": "Chennai",
+"short_name": "Chennai",
+"types": [
+"locality",
+"political"
+]
+},
+{
+"long_name": "Ramagiri Nagar",
+"short_name": "Ramagiri Nagar",
+"types": [
+"sublocality_level_2",
+"sublocality",
+"political"
+]
+},
+{
+"long_name": "Velachery",
+"short_name": "Velachery",
+"types": [
+"sublocality_level_1",
+"sublocality",
+"political"
+]
+},
+{
+"long_name": "Chennai",
+"short_name": "Chennai",
+"types": [
+"administrative_area_level_2",
+"political"
+]
+},
+{
+"long_name": "Tamil Nadu",
+"short_name": "TN",
+"types": [
+"administrative_area_level_1",
+"political"
+]
+},
+{
+"long_name": "India",
+"short_name": "IN",
+"types": [
+"country",
+"political"
+]
+},
+{
+"long_name": "600042",
+"short_name": "600042",
+"types": [
+"postal_code"
+]
+}
+],
+"adr_address": "56, Tharamani Road, Opp TCS, <span class=\"street-address\">New Colony, Ramagiri, Velachery</span>, <span class=\"extended-address\">Ramagiri Nagar, Velachery</span>, <span class=\"locality\">Chennai</span>, <span class=\"region\">Tamil Nadu</span> <span class=\"postal-code\">600042</span>, <span class=\"country-name\">India</span>",
+"formatted_address": "56, Tharamani Road, Opp TCS, New Colony, Ramagiri, Velachery, Ramagiri Nagar, Velachery, Chennai, Tamil Nadu 600042, India",
+"formatted_phone_number": "044 3957 2016",
+"geometry": {
+"location": {
+"lat": 12.9817788,
+"lng": 80.2315481
+},
+"viewport": {
+"northeast": {
+"lat": 12.9831277802915,
+"lng": 80.23289708029151
+},
+"southwest": {
+"lat": 12.9804298197085,
+"lng": 80.23019911970849
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+"id": "392829b21eab867ac651b7aa3c9214e839a88e06",
+"international_phone_number": "+91 44 3957 2016",
+"name": "Absolute Barbecues",
+"opening_hours": {
+"open_now": true,
+"periods": [
+{
+"close": {
+"day": 0,
+"time": "1630"
+},
+"open": {
+"day": 0,
+"time": "1200"
+}
+},
+{
+"close": {
+"day": 0,
+"time": "2330"
+},
+"open": {
+"day": 0,
+"time": "1830"
+}
+},
+{
+"close": {
+"day": 1,
+"time": "1630"
+},
+"open": {
+"day": 1,
+"time": "1200"
+}
+},
+{
+"close": {
+"day": 1,
+"time": "2330"
+},
+"open": {
+"day": 1,
+"time": "1830"
+}
+},
+{
+"close": {
+"day": 2,
+"time": "1630"
+},
+"open": {
+"day": 2,
+"time": "1200"
+}
+},
+{
+"close": {
+"day": 2,
+"time": "2330"
+},
+"open": {
+"day": 2,
+"time": "1830"
+}
+},
+{
+"close": {
+"day": 3,
+"time": "1630"
+},
+"open": {
+"day": 3,
+"time": "1200"
+}
+},
+{
+"close": {
+"day": 3,
+"time": "2330"
+},
+"open": {
+"day": 3,
+"time": "1830"
+}
+},
+{
+"close": {
+"day": 4,
+"time": "1630"
+},
+"open": {
+"day": 4,
+"time": "1200"
+}
+},
+{
+"close": {
+"day": 4,
+"time": "2330"
+},
+"open": {
+"day": 4,
+"time": "1830"
+}
+},
+{
+"close": {
+"day": 5,
+"time": "1630"
+},
+"open": {
+"day": 5,
+"time": "1200"
+}
+},
+{
+"close": {
+"day": 5,
+"time": "2330"
+},
+"open": {
+"day": 5,
+"time": "1830"
+}
+},
+{
+"close": {
+"day": 6,
+"time": "1630"
+},
+"open": {
+"day": 6,
+"time": "1200"
+}
+},
+{
+"close": {
+"day": 6,
+"time": "2330"
+},
+"open": {
+"day": 6,
+"time": "1830"
+}
+}
+],
+"weekday_text": [
+"Monday: 12:00 – 4:30 PM, 6:30 – 11:30 PM",
+"Tuesday: 12:00 – 4:30 PM, 6:30 – 11:30 PM",
+"Wednesday: 12:00 – 4:30 PM, 6:30 – 11:30 PM",
+"Thursday: 12:00 – 4:30 PM, 6:30 – 11:30 PM",
+"Friday: 12:00 – 4:30 PM, 6:30 – 11:30 PM",
+"Saturday: 12:00 – 4:30 PM, 6:30 – 11:30 PM",
+"Sunday: 12:00 – 4:30 PM, 6:30 – 11:30 PM"
+]
+},
+"photos": [
+{
+"height": 2268,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/107147753312574799914/photos\">Kumar Chamy</a>"
+],
+"photo_reference": "CmRaAAAAiFit7eyosmRypfZnp49kMpBhnx9XFF4STYR7KLZ8OxfYk11W5V-LYLjxCsxR8s5WnwUdjonsOziJ76dtPriTDHwTDqa9RXYKXABQFPcU4YjnIj3X01-Mgb62VzQShtpVEhDm_jy1Dy2N4uwzTRKnrkuSGhRLOS2G5qC1hIG9a9x1V0nxRXigJw",
+"width": 4032
+},
+{
+"height": 3120,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/100028019452999848737/photos\">Giridhar Radhakrishnan</a>"
+],
+"photo_reference": "CmRaAAAABnTidFm437q9JLKvgz8zSM3_AZp8SpxkPGjgsMZW8bqGqLyyzZOJ6b5oDv8xHb1D7t9ETu9_82TlcsHxjIDG7ZhYBQTjcpjAr72E8Mb7IUSRWvvFzo1GPqT7wSiTT37hEhCiTuo0yvPBvM1IR7sx4qNRGhQvYKSKbBEl0jjdHVQDNKx4nNkZTg",
+"width": 4160
+},
+{
+"height": 1920,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/114095372956905508736/photos\">Ganesh Siddhamalli</a>"
+],
+"photo_reference": "CmRaAAAA9dKCJmXuljVFNnmHNPnsRXHVe8w5Kzo6p-vufrfh8aumWFwJ3_0k4uueyMCrOXOuBWZjypoXVS0qHfAahEpIGp6GmvId1oPcqJ-eGkyocHWr0fGs-vSQk7HDO0RCFf4oEhAo6qhuOExcNdH7FLe1JgU2GhRbpFMJyrk0gow9J7cdm6zPq9coGg",
+"width": 1080
+},
+{
+"height": 3024,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/107108801593853439189/photos\">Sivakumar Selvaraju</a>"
+],
+"photo_reference": "CmRaAAAAQoP6Lfl_vBnnSyYrNkPfXGwyI-ao9V4NgyGmYwJNyT7-5TmqS3JC7YkcaU5fw_FMPElDwM6Z1fypzPKMqZF_EDUBpqCchoHQYWo9VNrmYyRDidxxM90w94msBwxBNKr5EhCWsdKQEolFWZoV52IyEOUiGhQ6s8B5dFq_uaVlDUMpifdpEDhEIg",
+"width": 4032
+},
+{
+"height": 3024,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/118252213053646610326/photos\">vijayan vijay</a>"
+],
+"photo_reference": "CmRaAAAA2z_ZdsuoZZEkf9cj9jxrNIVK9kFOcWvaeU1LnyV4I30oQYwfS_gfw6yPw0-ZcDi7Z5o4suUSOWRpyfus7n2oGtPFc_iA6uSh5LTgBF7xG2iE8-wPJWGbLu0f8D8IYNvIEhCGy0-Lip0pYN3IbpVf-ZVFGhQYXIUc5orSyoPZuDfOsDBpDg6oqA",
+"width": 4032
+},
+{
+"height": 3024,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/104492278680004192363/photos\">Ananya Balu Manivannan</a>"
+],
+"photo_reference": "CmRaAAAA8aIqLkRylAAHioBMCE68JfnkXjdJw1CiDq0Vdt-TwyLrju9lPgGsXHyYQgIZ2FVrAJ86DXq6_f6mO7MNrnOuUDHvHVYZ4bqCfVUGLNyD0HeF0FwUdXCUs8IPQDCAsgmMEhDlC2s3lY0wTbDPby-uuYfJGhTWrHaFBNxs95KTuTI8oHDdl2eSow",
+"width": 4032
+},
+{
+"height": 2592,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/118013286086078605672/photos\">Seguriyaz Deen</a>"
+],
+"photo_reference": "CmRZAAAAjkmEm0TbOW049NvChNrPpeS243M4nKWb2EkWQWrnGm49GLu5qaQ0Bz0us1AXCVgfLongoTbmzrxvVUCW6N3kgCwPls9dXUmyVTI1ooAz3KmJbI6chof6CK8xy6RjJTfREhBg1tBMdnTusVOFmqpkoNtwGhRg6bbNIRRHDMrStl4hOzxX5NzqYQ",
+"width": 4608
+},
+{
+"height": 3000,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/106321305453338523645/photos\">parameshwaran Iyer</a>"
+],
+"photo_reference": "CmRaAAAAQgKFVU2Qrn6hcengndU1ENb0K0TnqJSGDjkAu3FXL95LLw80FlbdOg1LM0UmEYTiK8Je_wP3ooeeZ4qULV8_LNZnw7KY6vjepEFaroWUas3iM52BsfMXdjr5AJz7nlKsEhCBUN1LIdwgzhY-7YjOXUW-GhQsP5jGWizgCTid9HEkI7495n8aYw",
+"width": 4000
+},
+{
+"height": 3024,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/111409579916421833085/photos\">Aravind Vaidhyanathan</a>"
+],
+"photo_reference": "CmRaAAAA7HsJOkSJKnQz0xdf73B5V7cofSuermu_8vVDhwqQ4DuCgeP2yO3zIBmGpgubiEtU9ckMrZ3_n5s8Do9CsUbc_LaVx7cT5dlhhPGyiUp3OgRgJQWnS_vqTc3o7U5pLlOYEhB_1hQgkXDtwLFY7DvElopOGhRL523Gv1eUyL-e1bMH6yN2PQ333A",
+"width": 4032
+},
+{
+"height": 3096,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/112805869997553774592/photos\">Karthikeyan Baskar</a>"
+],
+"photo_reference": "CmRaAAAAsdiiJLyhL2o06XSEum85iAER10V65C65PTo2Il0Dx5Uk4N3yziBvpAfsuo-4g2jWxaN1Qjl4v_3P4gfNJfoDCMJRmIF_O2FOHu2DNxKzLAmCR8cXeLqT1z8q3N-hAXZPEhCxh1jzX2CFVdyNpl535oAdGhQteTxMya91PrDSZrZW6RXMUkXrHw",
+"width": 4128
+}
+],
+"place_id": "ChIJA2LMmnhdUjoRBFp4tmTdb2M",
+"rating": 4.4,
+"reference": "CmRRAAAA95ryh5cJw3tSaQG2Zf_x6383ETZvn3vsxaNSgYsyd79wBt5JXke4YrPPc4mMUq4EouWTgCD4H2UpebPxisD6o2ULismLtSSm-XGDTPIDsMTwa5bha8A2WC4WT6KV8CtQEhBu6jUfOBhK0zCIHHOddfMEGhQIEjDPwym6t22G05TuUnKNJmkxpg",
+"reviews": [
+{
+"author_name": "arun kumar",
+"author_url": "https://www.google.com/maps/contrib/109974602076557704849/reviews",
+"language": "en",
+"profile_photo_url": "https://lh6.googleusercontent.com/-0Rz0yviSTtM/AAAAAAAAAAI/AAAAAAAAC78/geRB5wSfC0E/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+"rating": 4,
+"relative_time_description": "in the last week",
+"text": "Food is great & varieties are more to choose from. Great place if you want to give a memorable treat for your loved ones. They even sing for special occasions near your table. Only negative part is the servers ll keep serving you starters so that you won't move to main dish - a trick ;-)",
+"time": 1524228266
+},
+{
+"author_name": "Sreekanth Kancharla",
+"author_url": "https://www.google.com/maps/contrib/113946858005463066537/reviews",
+"language": "en",
+"profile_photo_url": "https://lh4.googleusercontent.com/-veZ5ao_7Cq8/AAAAAAAAAAI/AAAAAAAAQYA/h6tCWA9ku-k/s128-c0x00000000-cc-rp-mo/photo.jpg",
+"rating": 4,
+"relative_time_description": "3 weeks ago",
+"text": "The items are good but there are no change in variety since 1 year. \nFood is tasty. Desserts are excellent. \nThey will never leave you until you are fully satisfied. Staff is so humble and polite.\nNice place for any kind of team or family vacation for lunch/dinner",
+"time": 1522415256
+},
+{
+"author_name": "selvam rathinam",
+"author_url": "https://www.google.com/maps/contrib/106379418078700467712/reviews",
+"language": "en",
+"profile_photo_url": "https://lh5.googleusercontent.com/-x0N_cytVjYA/AAAAAAAAAAI/AAAAAAAAIgg/_BB1O1wmpbc/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+"rating": 5,
+"relative_time_description": "2 weeks ago",
+"text": "Best BBQ restaurant in Chennai. The service is amazing, if we said any of the food is not good they will ask us what way you want and they prepare based on our choice and serve immediately. Celebrations are even great. Also enjoyed the mocktails. Blue Angel is one of them.\n\nEven after 3rd time the service is well maintained.",
+"time": 1523302418
+},
+{
+"author_name": "Abhinay Artham",
+"author_url": "https://www.google.com/maps/contrib/107792589446654072847/reviews",
+"language": "en",
+"profile_photo_url": "https://lh3.googleusercontent.com/-n2-ESleO37M/AAAAAAAAAAI/AAAAAAAAD54/MVd_-Gk-P3Y/s128-c0x00000000-cc-rp-mo/photo.jpg",
+"rating": 5,
+"relative_time_description": "3 months ago",
+"text": "If I wanted to say it in one word, I'd say its absolutely awesome. The food here is great, if you are a non-vegetarian there are many kinds of dishes available and there is a wish grill where you can select the items you desire to be grilled. The Main course is also very tasty. Ambience is excellent. The waiters are so polite and friendly. The desserts(The Main course for me) are so awesome. I've never eaten this happily in many years....\n\nlunch for one would be around 700(non-veg) and 600(veg)...\nDefinitely would recommend this place",
+"time": 1515764206
+},
+{
+"author_name": "Tamil Selvan T G",
+"author_url": "https://www.google.com/maps/contrib/104225768270144608251/reviews",
+"language": "en",
+"profile_photo_url": "https://lh4.googleusercontent.com/-2QUOhQk1Ce0/AAAAAAAAAAI/AAAAAAAAAUs/Mo6JYZuItSg/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+"rating": 4,
+"relative_time_description": "a month ago",
+"text": "Went for lunch along with my family during sea food festival week. Sea foods are good in taste and varieties of fish were available. Everyone in my family enjoyed the food. The service was excellent and they serve the items on perfect timings so that we can enjoy the food. I feel booking is quite difficult here however you can book it in well in advance.",
+"time": 1520103758
+}
+],
+"scope": "GOOGLE",
+"types": [
+"restaurant",
+"food",
+"point_of_interest",
+"establishment"
+],
+"url": "https://maps.google.com/?cid=7165188956797557252",
+"utc_offset": 330,
+"vicinity": "56, Tharamani Road, Opp TCS, New Colony, Ramagiri, Velachery, Chennai",
+"website": "http://www.absolute-barbecue.com/"
+},
+"status": "OK"
+}
