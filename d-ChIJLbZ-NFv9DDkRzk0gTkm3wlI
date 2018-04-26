@@ -1,0 +1,145 @@
+{
+"html_attributions": [],
+"result": {
+"address_components": [
+{
+"long_name": "New Delhi",
+"short_name": "New Delhi",
+"types": [
+"locality",
+"political"
+]
+},
+{
+"long_name": "Delhi",
+"short_name": "DL",
+"types": [
+"administrative_area_level_1",
+"political"
+]
+},
+{
+"long_name": "India",
+"short_name": "IN",
+"types": [
+"country",
+"political"
+]
+}
+],
+"adr_address": "<span class=\"locality\">New Delhi</span>, <span class=\"region\">Delhi</span>, <span class=\"country-name\">India</span>",
+"formatted_address": "New Delhi, Delhi, India",
+"geometry": {
+"location": {
+"lat": 28.6139391,
+"lng": 77.2090212
+},
+"viewport": {
+"northeast": {
+"lat": 28.65048,
+"lng": 77.3449601
+},
+"southwest": {
+"lat": 28.4041,
+"lng": 77.07301009999999
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+"id": "910e9ee78403c6726e140168f78ca0fb0063bcc8",
+"name": "New Delhi",
+"photos": [
+{
+"height": 768,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/101622635351242679897/photos\">DuKR A</a>"
+],
+"photo_reference": "CmRaAAAA78IamrKL_BnJrx9e-KYQRRdf6xYOMMJRxHui-hbippJ9R72pXFysqdV-_C8xmJnLZyWTwUNHnjJkIki236AQAuww-i9xoinh50XCnmB1YEgfpeti33Ti_NkUjZPkrIUJEhBUY1eLopR8yAcwqpMs3uk_GhQhO5g9iYfnuSe7ORpSLVl3ZYJIOA",
+"width": 1160
+},
+{
+"height": 768,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/101622635351242679897/photos\">DuKR A</a>"
+],
+"photo_reference": "CmRaAAAAT-QSib2js42a842ARZQXV0cwQ_GtFRMXyvyGMpiISluwhdT81EL9y8mm6Osvidhey9w0n_7q2wwDjAfQMQY7YfFCsmmLdj0hDibKGWtUB9nPFMI6XXUy9CAa0v5NRjzkEhBZk8sNb_pzsF1JR3MpSGzpGhQKIJAsql7yFlv3CMh4A7fbBiL-SA",
+"width": 1160
+},
+{
+"height": 3264,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/111938482205534813160/photos\">Alejandra Villa</a>"
+],
+"photo_reference": "CmRZAAAAZJ6bsMWQfuSGNh_7WRC2LD9dWTDoKKDg_SfxqH1Ua_wTcIkmKrZoAbqxjNhqvI0ql30eKFUzBa5_7sxt1Zfv5VT0E5OorBM14_TDGLyekIi82TXg4eaz5AVhtGnQGJdCEhAPmZWFwYA3DHg4aN90DEUEGhRYZO-Ar_bG1L6P7Km0Nfbjzum5uw",
+"width": 4896
+},
+{
+"height": 768,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/101622635351242679897/photos\">DuKR A</a>"
+],
+"photo_reference": "CmRaAAAAVIkVW9bVayI8ZtaDfEt5Mn_aruyaS42vlzKi2pxMG4oaaRIl7R5oY9z_-ooW61tkPWC481xs4J7shvwo_aqRqW33FRELj-Kw4nz1Td15HmnH8Tl_IkAlV3My0lMsaBgbEhCVcAn-iVNIpaU1MOsGJVJ6GhRchQqBqbTuFMLtp7zopaCimRqSig",
+"width": 1160
+},
+{
+"height": 768,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/101622635351242679897/photos\">DuKR A</a>"
+],
+"photo_reference": "CmRaAAAARb7h9fs1aisV53HiXxJffdGB8BTl1DFmWSORzhl4QzG8RX4Gq5soZAB9JODbtvk-5yQYPpRhMX89Q7o99y3zImv1NFdcTQnlyV2d9akBi1tkrLkfjFIW6PtExbVJsjArEhAEI51wl8LRTYimb9Xmf6_WGhT99773_RCD_kyGHL_pfZPBVveVEw",
+"width": 1160
+},
+{
+"height": 768,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/101622635351242679897/photos\">DuKR A</a>"
+],
+"photo_reference": "CmRaAAAAIbncumgowk22OdMC30mf0vj4T_c7Au7LVRJk75CD2qVyTIZyc5mRlOBsMEVSioUcG-PLEzuW5bFLFx5IzT9ARmelRhj0e7D-mDfBmIyvPa-mW7ja5La4ULnufTj015TrEhB7DBAL5oKOnDigifRu8dzOGhRcgdNmlLwHTD9XbI8vRwdzNC2Rdw",
+"width": 1160
+},
+{
+"height": 1728,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/103015202412991576932/photos\">Rahul Singh</a>"
+],
+"photo_reference": "CmRaAAAAcwjVgazQu1WFOrc4gASuS1nv-2T-zxNgqSqNxQZ2nY_TfIBTm24L3X-gM1j1rpeHHpQkXD0xRgSI4Cw3DhUq3JPZJ9pqVqPNNy7-q5R421HzLCXQVBWU5J-I1XcJV0ObEhA-l22y8BA_UdFqpTB0Qw15GhSOZ9QUbnmeprcuW7kHcP9kGq2oWw",
+"width": 3072
+},
+{
+"height": 1361,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/104165424124533736094/photos\">Jean Pierre CORDIER</a>"
+],
+"photo_reference": "CmRaAAAA__pAuvc9EGAwnMASbgb1zf2JuhnysZAS9Tqyx5FtrNU_tcz6XE1DsYpkzQn_XQJxn65gPpSKUFVhzEoDRwxKe4sWHgAwMPvs-2DiFj4BiSqAjwxgmJoH3W6CZs2X-WZOEhCbtnD_OVcXjN9h1RSsK7qvGhSeCc7PYuLJXWZxLDPJKHo4rnf1sw",
+"width": 2048
+},
+{
+"height": 768,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/101622635351242679897/photos\">DuKR A</a>"
+],
+"photo_reference": "CmRaAAAABOA330nUY_5PS1zYOFK_Zn_IBJk4ahmIWxWRmaPt4YzaIG_j2XS62OviKUUwvYKtnjEoxobw1nSTDUze_oixlVl5n3KNxyZfcF5ID5Xo6itEZaS2KEPdyTGf5ndmvM8LEhBkUttWfLiuzVmKag9mZRJ_GhStc_NEk7ZZPBMiXmyuxGyC3_DhVQ",
+"width": 1151
+},
+{
+"height": 409,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/107611148775563109213/photos\">sahil shokeen</a>"
+],
+"photo_reference": "CmRaAAAAsJF1rkMpTKeudkFPdEeF55vPSMIYylpHNk9o_PKdS7_fzqLG76NrJ8idrWNKyQSEPfJPrAkBALtacJN_V5TJ9IOhH4F3xRAA379c9TumzzRIByVXTfyB82NHuqCWv1dyEhCst6sZczogauU3uvtVnV7GGhQoHCMFfZtv3mnDTXRLgoa9RAZEyA",
+"width": 720
+}
+],
+"place_id": "ChIJLbZ-NFv9DDkRzk0gTkm3wlI",
+"reference": "CmRbAAAABZfp4rDW83CvozCVNMzv8wdkNprP0PR-3nA-x5_A3awnFxfAWlK4k79yzRXDbkAlp8yrEp3YltIMoTXPC-LyO5Dec9MydPbYWgon97X0eAQiALEKpH9OJiVT6V2gAUVZEhBfY5lgZE_DLVldVYmPduC_GhRpkf90HWoZob2r30dp8YA1E5zDYg",
+"scope": "GOOGLE",
+"types": [
+"locality",
+"political"
+],
+"url": "https://maps.google.com/?q=New+Delhi,+Delhi,+India&ftid=0x390cfd5b347eb62d:0x52c2b7494e204dce",
+"utc_offset": 330,
+"vicinity": "New Delhi"
+},
+"status": "OK"
+}
