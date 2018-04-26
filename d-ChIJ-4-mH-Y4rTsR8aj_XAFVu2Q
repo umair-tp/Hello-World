@@ -48,6 +48,70 @@
 "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
 "id": "dbd104280cebad7b8c8cf71e8fc5113e36e3364a",
 "name": "Vellore",
+"opening_hours": {
+"open_now": false,
+"periods": [
+{
+"close": {
+"day": 1,
+"time": "1700"
+},
+"open": {
+"day": 1,
+"time": "1000"
+}
+},
+{
+"close": {
+"day": 2,
+"time": "1700"
+},
+"open": {
+"day": 2,
+"time": "1000"
+}
+},
+{
+"close": {
+"day": 3,
+"time": "1700"
+},
+"open": {
+"day": 3,
+"time": "1000"
+}
+},
+{
+"close": {
+"day": 4,
+"time": "1700"
+},
+"open": {
+"day": 4,
+"time": "1000"
+}
+},
+{
+"close": {
+"day": 5,
+"time": "1700"
+},
+"open": {
+"day": 5,
+"time": "1000"
+}
+}
+],
+"weekday_text": [
+"Monday: 10:00 AM – 5:00 PM",
+"Tuesday: 10:00 AM – 5:00 PM",
+"Wednesday: 10:00 AM – 5:00 PM",
+"Thursday: 10:00 AM – 5:00 PM",
+"Friday: 10:00 AM – 5:00 PM",
+"Saturday: Closed",
+"Sunday: Closed"
+]
+},
 "photos": [
 {
 "height": 2448,
