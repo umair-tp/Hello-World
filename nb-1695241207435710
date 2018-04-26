@@ -1,0 +1,46 @@
+{
+"html_attributions": [],
+"results": [
+{
+"geometry": {
+"location": {
+"lat": 18.7692034,
+"lng": 73.3767641
+},
+"viewport": {
+"northeast": {
+"lat": 18.7912019,
+"lng": 73.401805
+},
+"southwest": {
+"lat": 18.747818,
+"lng": 73.361778
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+"id": "ad884129c09c513654bd13f80461783d21384808",
+"name": "Khandala",
+"photos": [
+{
+"height": 3264,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/107485447825904655531/photos\">sandeep saha</a>"
+],
+"photo_reference": "CmRaAAAAa-KWGEXr7SDK18dEy9AD61KrZipBSsfYU8X-A3GUzuB9nVcxOHkhZ8vJAe_49FErXTEevGLQFeu5doXcPEM_6osmMKiRvXPSs2MeyxsZCLIq68JYcFiDWoWgTeQC_nzTEhAOrZWM5vsK076ElWS0qvj7GhTePAk0bfagAYagS13f4o7ALa2oxA",
+"width": 4928
+}
+],
+"place_id": "ChIJvdzC9SoB6DsR2ZtKYC1zmk4",
+"reference": "CmRbAAAAsEzgMsa_WNhWgySxCMgA1DtTfQJjgIq4bPXb4iJOGwWrzYzVml4nqc-E4VPOJBytjkP1aynZnOH0L8S7N8gr8SajIVnvpGh8tlAQIwGjPYNJtbeXxhN2YYZegZTHPpyFEhBpQR-1qhN8Q1ozvhV4AE_kGhSwBy7Ykcn99VIbkO2ExdYdXozmWQ",
+"scope": "GOOGLE",
+"types": [
+"sublocality_level_1",
+"sublocality",
+"political"
+],
+"vicinity": "Lonavala"
+}
+],
+"status": "OK"
+}
