@@ -1,0 +1,45 @@
+{
+"html_attributions": [],
+"results": [
+{
+"geometry": {
+"location": {
+"lat": 12.8464805,
+"lng": 78.9288242
+},
+"viewport": {
+"northeast": {
+"lat": 13.207863,
+"lng": 79.792717
+},
+"southwest": {
+"lat": 12.249651,
+"lng": 78.3995901
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+"id": "dbd104280cebad7b8c8cf71e8fc5113e36e3364a",
+"name": "Vellore",
+"photos": [
+{
+"height": 2448,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/107782215594321337394/photos\">RK NAIDU</a>"
+],
+"photo_reference": "CmRaAAAAYbTSLJ7zszpF3sR-qOjfXlPPAZvJ7vZbnpYmC1xNZMgCE9baZpJvca9m0-KrQJr4mrbeoNis1bJjFSKlL9SKnDt-dzAGuegOqv--IPqulyeI1dgdgxx0vs-QzrjPX_a2EhCxeI4YkSpZKRSazLNiyf1AGhS7DmieuKP5ZDpMLYBZd3lh4Pc-8w",
+"width": 3264
+}
+],
+"place_id": "ChIJ-4-mH-Y4rTsR8aj_XAFVu2Q",
+"reference": "CmRbAAAApszUzTDFoNVt5KML4mOzKZvaAA8SJGUSDiCRLEjq5jAPbVbO0UvaDDd_sg5tazOPY-rb576UnUN9tBSlf4rUEF9Lxln-Upa35Kk7mbN_XifhkfpaYPlSEgafJLqQVArvEhAEUInNnMzrWGFd5GGpaTX7GhT1pxfL5BTuJidVClN4pBiZwNOSEw",
+"scope": "GOOGLE",
+"types": [
+"administrative_area_level_2",
+"political"
+],
+"vicinity": "Tamil Nadu, India"
+}
+],
+"status": "OK"
+}
