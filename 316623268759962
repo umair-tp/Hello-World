@@ -1,0 +1,35 @@
+{
+"html_attributions": [],
+"results": [
+{
+"geometry": {
+"location": {
+"lat": 23.0233668,
+"lng": 88.10528049999999
+},
+"viewport": {
+"northeast": {
+"lat": 23.0248599,
+"lng": 88.10708009999999
+},
+"southwest": {
+"lat": 23.01705,
+"lng": 88.0932899
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+"id": "5cfebf2536382bd7c481a9b84653c729c4dcbae9",
+"name": "Telakona",
+"place_id": "ChIJG5rXGG5e-DkR7zzzaeSKkZY",
+"reference": "CmRbAAAAuvtYtki_xQLax8hNmmRfUPAKXXuHIrzTNA_FfZmzDq-d0w6HkvxR_exl9pu9mY_qhUGOfsZU2Ma6Vmd4ZmfRTccxa4MktQpGWPIT29D-Uwb-13XEINewe334hbrp6uF6EhCcnvQH1nXhxZkpTBQO_-7wGhT4LMxqIvYP1xR0EQQFNx8FtT6gIg",
+"scope": "GOOGLE",
+"types": [
+"locality",
+"political"
+],
+"vicinity": "West Bengal, India"
+}
+],
+"status": "OK"
+}
