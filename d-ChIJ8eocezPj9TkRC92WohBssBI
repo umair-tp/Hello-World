@@ -1,0 +1,240 @@
+{
+"html_attributions": [],
+"result": {
+"address_components": [
+{
+"long_name": "Tata Nagar",
+"short_name": "Tata Nagar",
+"types": [
+"neighborhood",
+"political"
+]
+},
+{
+"long_name": "Khasmahal",
+"short_name": "Khasmahal",
+"types": [
+"sublocality_level_2",
+"sublocality",
+"political"
+]
+},
+{
+"long_name": "Jugsalai",
+"short_name": "Jugsalai",
+"types": [
+"sublocality_level_1",
+"sublocality",
+"political"
+]
+},
+{
+"long_name": "Jamshedpur",
+"short_name": "Jamshedpur",
+"types": [
+"locality",
+"political"
+]
+},
+{
+"long_name": "East Singhbhum",
+"short_name": "East Singhbhum",
+"types": [
+"administrative_area_level_2",
+"political"
+]
+},
+{
+"long_name": "Jharkhand",
+"short_name": "JH",
+"types": [
+"administrative_area_level_1",
+"political"
+]
+},
+{
+"long_name": "India",
+"short_name": "IN",
+"types": [
+"country",
+"political"
+]
+},
+{
+"long_name": "831002",
+"short_name": "831002",
+"types": [
+"postal_code"
+]
+}
+],
+"adr_address": "<span class=\"extended-address\">Tata Nagar, Khasmahal, Jugsalai</span>, <span class=\"locality\">Jamshedpur</span>, <span class=\"region\">Jharkhand</span> <span class=\"postal-code\">831002</span>, <span class=\"country-name\">India</span>",
+"formatted_address": "Tata Nagar, Khasmahal, Jugsalai, Jamshedpur, Jharkhand 831002, India",
+"geometry": {
+"location": {
+"lat": 22.7679095,
+"lng": 86.20106299999999
+},
+"viewport": {
+"northeast": {
+"lat": 22.7692584802915,
+"lng": 86.20241198029149
+},
+"southwest": {
+"lat": 22.7665605197085,
+"lng": 86.19971401970848
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+"id": "04e05576488e0b8150c048cf3713352e55bc31ec",
+"name": "Tatanagar Jn",
+"photos": [
+{
+"height": 3096,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/116482140596806362732/photos\">Sushil Kumar Mahto</a>"
+],
+"photo_reference": "CmRaAAAA56QA_ko-5XR26gAxinsepvTRkzRUqOykS7-pP4RVd221hugAUcd1-nXXI83PV3xAwf3Agt4mvhaUIvICe-b29DQ3aPYhzybfzCTCcj71_f3d3Av2JNBROABNKHcgXXLSEhDRI_uBvZf6dWZOWUSWPErNGhREwQQ1CpNB2QNUqsUjFpWJUGcNMg",
+"width": 4128
+},
+{
+"height": 3456,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/113789488506505113266/photos\">Hemant kumar Mahato</a>"
+],
+"photo_reference": "CmRaAAAAvWA-bhG39q9RGCAcLSIxGOzbRMuZakuWuSiHR5rWs1nWBkWx3lVBIOWSw7kGbERfSLa6tLMvD34VQnT3jDZKsA9jATLNgWlk3imUgQ8PtretBaDIVHr16XWeWdx4pXBbEhCeIcT0ozWkAPlpu7e5u-EXGhTCCkJUj45dRVFHGOAwqItPvkbwoQ",
+"width": 4608
+},
+{
+"height": 3120,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/115004757503474696329/photos\">Sandip Ghosh</a>"
+],
+"photo_reference": "CmRaAAAALB1o3puTCvp2B1EarCNuEVI1yx9mVO3U9HlbIkg8BV4gypP6JTzgkKLhmr0_48zok5RLb_ZCbZ5l9U8kOG2SiBqgz7hnWXHSJWUm-8u7_gf0xI1JgikmNweuj-XGm8SyEhDedq3rpe5Rw7HrPP49RXubGhTvESWwJG0x8ZyqNl5CZWSjorBavw",
+"width": 4160
+},
+{
+"height": 1152,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/106707974010151345360/photos\">Shrabani Bhattacharya</a>"
+],
+"photo_reference": "CmRaAAAA_FUWZwhYHmdINaTh4xFCNvr4JB-oxOCv0bge-B_TbckSRxMt7n6IHfkZolHggBZUVQ1AGGlzXLEBg_FSQ3R9FTz6F6EW_oa4OYim6ReM5rJxjEtqEgQgrTtqcV1TMAvzEhD-TKdAqGyvEhGn1EJmPongGhT0Z1pFbKpEnkWbnq7-7MD48n3eFg",
+"width": 2048
+},
+{
+"height": 3072,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/103699479159886445781/photos\">Arun Kumar Baskey</a>"
+],
+"photo_reference": "CmRaAAAAbpI3IMDzu7AIrV5SfBDrayj3J6Ds1x9vigf-IW0JHioLPHJsKsDrRHw_XwBDVm-LMr4kud4a6SyGxtmIOKzxKtlT-r8DKp5KVRZ2IHuD3yfh7aF4tF55nd_7HzaY2u2lEhAhhKe03mKOmW8kqoCbwyEtGhRlWJ0Qlx6OxESQw0F2_3rMNJmq4Q",
+"width": 4096
+},
+{
+"height": 2304,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/110458734836662935868/photos\">SwaGGy TRacKS IR</a>"
+],
+"photo_reference": "CmRaAAAAP22oKqSOkDbp8YOfU9QHjz3d0gVD5cGKCtND5gIdr5egHQ5N9Y_LzPALtbHfLo8_taty-W2ACOmhMVN_mRsIiZxqtcf6JIOrzAznFXqtsAjxzrQszGHKii_hdZ9S-s8oEhB-StzUHmi9vC2LUslEQivyGhQZR-EkTI-vUzPXYw_99IeuPiS_Pg",
+"width": 4096
+},
+{
+"height": 480,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/102233425803298817933/photos\">Bishwajit Panja</a>"
+],
+"photo_reference": "CmRaAAAAT71psZIiwRoFtmrwHUD4xxx_Ze7LRmiaX-xngxM-HK3CRKbHjC4XWah91VbObeAXxdtye7hsTgHFVxRmDEnEtLJammmbFAMT64_POkebOC4IAAal-JaTangWwfFZLAWdEhBWCFYI-JH5xKBbQJC1EcEMGhSe8tOWtItnHpGu3m0RqGNrRpiC5A",
+"width": 480
+},
+{
+"height": 2340,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/112313547126369613711/photos\">Umang Panchal</a>"
+],
+"photo_reference": "CmRaAAAAutjiTglr7ISaz2az9QKLUrsqMHQ-mXf-l8xQZDE_lneIC2pY7A1JrHfYw297nP4H6TmezpZMb04KsYn54LarGjzoTlSbVMkQ4GxlY1rBm23T-W7-fjmvkNOFNeZO3bq1EhBTYytlIF26PVyrHvE_VnZ2GhTEw-4ZPVYHVfGxzh3C-uzFIbalBA",
+"width": 4160
+},
+{
+"height": 3096,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/108566778048175240255/photos\">Atanu Maity</a>"
+],
+"photo_reference": "CmRaAAAAWCDN2o6rz30FwCVJbGE9akXmKNy_7W5N3g0lQeqwu3EEoH0m1pB-5FUuw4FbOnYBTjbn8dCWN5U8l1SGNiClZoVaVEK2CVk7soIkNH7gNJDT8PwoD0jq0-1TyRjs133YEhAff1g4qfPpbEsSVA4NLz-QGhRnzzp2piswaBTg_codeaQ4vuayvg",
+"width": 4128
+},
+{
+"height": 3120,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/112322871531102752890/photos\">ashwani kumar pandey</a>"
+],
+"photo_reference": "CmRaAAAAfmSUmbJGYgeThRnw8SFsuO0Ta7FDegpTjbY4aYtaerf_rstb9ApkttT_QFkBBTUSNldHUCDhurxEie2sdHfQBaXnshjc0xZNZ7_AzKdWzljqcbZHm3XnNmWV09M629K3EhCKiTNKONKIzVVQ1kg3-vXUGhQmdL6IUyWAiG7JIELZXz3DxjN_lw",
+"width": 4160
+}
+],
+"place_id": "ChIJ8eocezPj9TkRC92WohBssBI",
+"rating": 4.1,
+"reference": "CmRRAAAAUPW5xfGkaCpxxag1BHHk_KTY3t6AdiG9p23d4gyB-1eqm9zsEdZSsoCrD3MHqJYgWQurcoVquWpuplQoxSd1t-0z88IXgLyvE6kvX5LWEwHAUeLZ-xNDrz1rUTXbZJlAEhBofjZN6QTNj2pAYo_8kD1tGhQSnb-jR7VCAQJPZNrl1BkGzh8A_g",
+"reviews": [
+{
+"author_name": "Hemant kumar Mahato",
+"author_url": "https://www.google.com/maps/contrib/113789488506505113266/reviews",
+"language": "en",
+"profile_photo_url": "https://lh5.googleusercontent.com/-czngHyjZb8o/AAAAAAAAAAI/AAAAAAAAAXs/1Ogoomg-7k8/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+"rating": 5,
+"relative_time_description": "a month ago",
+"text": "simply awesome experience.. .\nIt is  clean, beautiful and well renovated station. escalator facility available in platforms. Free Wi-Fi service available in all platforms, waiting room , ticket counter s , even this facility is available in retiring rooms. There is big parking area for four wheeler and two wheeler vehicles. Snacks, lunch and dinner facility available in the station premises and also outside of the station.",
+"time": 1520762821
+},
+{
+"author_name": "Harsh Naidu",
+"author_url": "https://www.google.com/maps/contrib/106810689540082111075/reviews",
+"language": "en",
+"profile_photo_url": "https://lh5.googleusercontent.com/-vUMupoX3-j8/AAAAAAAAAAI/AAAAAAAAIYI/8Ym-8bxPto4/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+"rating": 2,
+"relative_time_description": "in the last week",
+"text": "To be honest, the Station is not upto the mark and lacks a lot of facilities that should be available to one of the most important stations of the region.",
+"time": 1524463063
+},
+{
+"author_name": "Suresh Mahto",
+"author_url": "https://www.google.com/maps/contrib/112612635429307773032/reviews",
+"language": "en",
+"profile_photo_url": "https://lh6.googleusercontent.com/-hU52Ikr2nb4/AAAAAAAAAAI/AAAAAAAAAV4/47uuPuoO47g/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+"rating": 3,
+"relative_time_description": "2 weeks ago",
+"text": "Good but still need lot of improvement, lodging count is very less hence difficult to get rooms.",
+"time": 1523519799
+},
+{
+"author_name": "Amit Sharma",
+"author_url": "https://www.google.com/maps/contrib/116152772652896270536/reviews",
+"language": "en",
+"profile_photo_url": "https://lh5.googleusercontent.com/-ozMRHwqQ5Ow/AAAAAAAAAAI/AAAAAAAABUk/gxAyrGXlcGA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+"rating": 5,
+"relative_time_description": "4 months ago",
+"text": "\"You can easily get water and food here at any price bracket.\" Station is not as per standard of a Steel city of jharkhand. It should be a model station. Concerned minister should visit the station unanimously   by masking his face and after having all facilities provided he will be able to make it a model station.",
+"time": 1514287277
+},
+{
+"author_name": "Keshav Chakraborty",
+"author_url": "https://www.google.com/maps/contrib/101855485501228640950/reviews",
+"language": "en",
+"profile_photo_url": "https://lh5.googleusercontent.com/-kGJMLinZms8/AAAAAAAAAAI/AAAAAAAACzg/OtETtVuw7KM/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+"rating": 5,
+"relative_time_description": "4 weeks ago",
+"text": "Its one of the most important station in South Eastern railway.\nAll express trains including Rajdhani and Duronto stops here.",
+"time": 1522283053
+}
+],
+"scope": "GOOGLE",
+"types": [
+"transit_station",
+"point_of_interest",
+"establishment"
+],
+"url": "https://maps.google.com/?cid=1346695107286850827",
+"utc_offset": 330,
+"vicinity": "Tata Nagar, Khasmahal, Jugsalai, Jamshedpur"
+},
+"status": "OK"
+}
