@@ -56,6 +56,10 @@
 "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
 "id": "b53b6db33aaf3aa06dc661e9b2631735f3d484f1",
 "name": "Pune",
+"opening_hours": {
+"open_now": true,
+"weekday_text": []
+},
 "photos": [
 {
 "height": 2988,
