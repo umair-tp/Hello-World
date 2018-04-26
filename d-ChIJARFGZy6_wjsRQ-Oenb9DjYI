@@ -1,0 +1,153 @@
+{
+"html_attributions": [],
+"result": {
+"address_components": [
+{
+"long_name": "Pune",
+"short_name": "Pune",
+"types": [
+"locality",
+"political"
+]
+},
+{
+"long_name": "Pune",
+"short_name": "Pune",
+"types": [
+"administrative_area_level_2",
+"political"
+]
+},
+{
+"long_name": "Maharashtra",
+"short_name": "MH",
+"types": [
+"administrative_area_level_1",
+"political"
+]
+},
+{
+"long_name": "India",
+"short_name": "IN",
+"types": [
+"country",
+"political"
+]
+}
+],
+"adr_address": "<span class=\"locality\">Pune</span>, <span class=\"region\">Maharashtra</span>, <span class=\"country-name\">India</span>",
+"formatted_address": "Pune, Maharashtra, India",
+"geometry": {
+"location": {
+"lat": 18.5204303,
+"lng": 73.8567437
+},
+"viewport": {
+"northeast": {
+"lat": 18.6357545,
+"lng": 73.9864569
+},
+"southwest": {
+"lat": 18.4134784,
+"lng": 73.7394779
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+"id": "b53b6db33aaf3aa06dc661e9b2631735f3d484f1",
+"name": "Pune",
+"photos": [
+{
+"height": 2988,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/117099018255258381560/photos\">Fee Anor</a>"
+],
+"photo_reference": "CmRaAAAAgorGTvAJKzi44JOY-af3Jf_W7Y-puYHwXnEi2BFuPg6KmyuGbDYlgtf1AZisvmVTxSX1IfZtVAHaoifuxLbEPCjCIZLHOJ1l1JNQbn-Qwj8EF9-qq-LQhvHwL_IWjRk_EhDoTJsc0VFlWDsQsher0s6SGhTNSqioGhxkyJnRFCy2NYZs8ksjzg",
+"width": 5312
+},
+{
+"height": 1080,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/115259035622829492091/photos\">Nilesh Masule</a>"
+],
+"photo_reference": "CmRaAAAADJVrnoj_sVJFwaNz6jVApBkZizGNJc81m85m9mtbBz97VBraU2tIUSGJhNomxP1dwKsPpPFe0s90YU8Dc1wLkHdHksOQYcTVwkvfi9WTqDZBDl0gyzWSor4QYwpDqSgNEhCx9RlBRTOC81Y-xVGObGXIGhQn8UI3Gs1gF1g0ZYaaWvWSuo23Hw",
+"width": 1439
+},
+{
+"height": 2988,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/117099018255258381560/photos\">Fee Anor</a>"
+],
+"photo_reference": "CmRaAAAAfXOwtVmozYH_bk3ydC0jDRh82IWToAdzqD7_Us4KIrunW5qREKA-IcK7aw1FQXl2DwImWyHvFXokX3wRCgFXGufZdXF4tsIEZ-DUgZ_WkRO-Q1Bz2Aff3hM9mO_k1GxvEhCnKbofjpCfHfSETmRUggMpGhSYKJklJFcyIHPOJ281WoJT0Dyndw",
+"width": 5312
+},
+{
+"height": 1536,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/105804859914575155078/photos\">Ketan Chalisgaonkar</a>"
+],
+"photo_reference": "CmRaAAAAztqEU4ot34tMWQu5M5V3qpdw2tx7gu5u9zeTt6L4I-iiyH28dAP670VDY8AyEt13q7Vm6N4QhF6RJut1z9bxZa2FwTV7zPciyr4QK5rEbO4R8vipLW1e-VOrM91x3Qr2EhDJVZGMv-9dJ9buq73Rq7rvGhQNSrvi5hsWdm49h1AOeDDoGlVo6A",
+"width": 2048
+},
+{
+"height": 1080,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/106859267983297155276/photos\">Sâchîñ Thâkur</a>"
+],
+"photo_reference": "CmRaAAAAFI51AnpxqeeOpUbySpXylyGMNu96l7CdYi0m4FirMgeuzkd80B2XNqj3cXQe7ORLOlShfakKsDDu_umxIC_KeTy7aWjRWeQ8mHwzISZsq4rGa3ZcN6buPGIxsluKqNCEEhBnpMcmkikzDewttbQfkJ49GhRXJnV5SWcEcbs_IQY6Lh8ozTC9lA",
+"width": 1335
+},
+{
+"height": 405,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/112709663064832418023/photos\">Yadvender Thakur</a>"
+],
+"photo_reference": "CmRaAAAAbPoUglh2z-JsGRGJEA10ZwwTzHEGGt-vUlrpEQDP2XHq8ngqQK71t3ycnTZtGdDW-J5jYbhNfHdZRctx4Ct0YkSngmXz4_Jq-mXKoxpRMP4CoIC106BWMN59EwkknVEAEhAkZFBo9EMRUR82jYV2huPOGhQJulQ4NU6mcCV0UjLk5PQLFsAcow",
+"width": 540
+},
+{
+"height": 2336,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/112938633004114778979/photos\">THE ROCK Channel Dekho OR Dekaw</a>"
+],
+"photo_reference": "CmRaAAAA86dMVT2ePK0mM3tgR-9rJGTyyjaZlHQSVnTJG7rEyaJDxezRq2eg3XaYA2Y0NdDhWALRgzkWH5yReMOEBpGo-QRZGKGJ8y5dGpleuuNIlnwCSXJ8x-hKQYhQGbgVTIxDEhB0eOsHIEF32IbGJvGJ434yGhTjN6btBByM3EQjrZttKKZxnq569w",
+"width": 4160
+},
+{
+"height": 660,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/100749632365096549694/photos\">Abhay Choudhary</a>"
+],
+"photo_reference": "CmRaAAAA8u11WN1166eECIaWDjMAMta8Sd_ca53aobYAWO4FwKr8yNzF-mF5aZ1ZxJjgma5vSIaDr1b8LTkIe1uZ5-vwGB03F6vvug5jmHmZ-d6wODQKyziWBuOWfpy83uATsoTOEhANFP7V5bXVrcNdOs1_hUK0GhQWfd-Ckp2D_buEDm89DiJgheAmJw",
+"width": 1280
+},
+{
+"height": 540,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/113310476530431593427/photos\">Manab Mondal</a>"
+],
+"photo_reference": "CmRaAAAARtvJn9A7cjXGS7zSLfIE8GWNdAmVbnHkqsoMHzpNeqnPlsTAOX4QoHPvshAzPz6dWYXgmYN-ESN5MvxbVvc76UQTlXT0cFIGy-H9eqElK5YndI3bDoB31OBPtIgb96aiEhA5TTVvuanzComEhAWs8ghWGhRMdVABFlk39BvvGVRzKM3e8O7UWg",
+"width": 960
+},
+{
+"height": 1200,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/108757822584650039834/photos\">Mallika Dubey</a>"
+],
+"photo_reference": "CmRaAAAA3urt3lcmY2ZAxqn51QWEHYkUxcWsfxs0NRcpPgutIa3jjmg3XCpMTcS_6ajRE087K7jX0sqC361Ea4mqxBavWUbBdI68KFMC3aWlzB3ynTr1kewaWUbbcRObLT7R4MOhEhBYWijbowY700oB3wjwCxbiGhS2Basa5Nvk4lPKWlEBMoO_dlh8VA",
+"width": 1600
+}
+],
+"place_id": "ChIJARFGZy6_wjsRQ-Oenb9DjYI",
+"reference": "CmRbAAAA38V04dqQiJxla7HZ81tX5Y2gOwpvt-UWoqR_MR8iACjOW7wL2ubZs8MixpIwKWs-A8QRxBx-v7eTsky6FGgHPWRJ5mb5H6zlyrg6QKwuay8qVAh1dywKEydHQL3Ke_1CEhAoOWwKGGIYHJSdlCTel0BcGhTgcw05fz-zHgPRNAM5HkcAoZfEbg",
+"scope": "GOOGLE",
+"types": [
+"locality",
+"political"
+],
+"url": "https://maps.google.com/?q=Pune,+Maharashtra,+India&ftid=0x3bc2bf2e67461101:0x828d43bf9d9ee343",
+"utc_offset": 330,
+"vicinity": "Pune"
+},
+"status": "OK"
+}
