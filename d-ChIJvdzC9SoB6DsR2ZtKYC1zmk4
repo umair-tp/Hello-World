@@ -1,0 +1,163 @@
+{
+"html_attributions": [],
+"result": {
+"address_components": [
+{
+"long_name": "Khandala",
+"short_name": "Khandala",
+"types": [
+"sublocality_level_1",
+"sublocality",
+"political"
+]
+},
+{
+"long_name": "Lonavala",
+"short_name": "Lonavala",
+"types": [
+"locality",
+"political"
+]
+},
+{
+"long_name": "Raigad",
+"short_name": "Raigad",
+"types": [
+"administrative_area_level_2",
+"political"
+]
+},
+{
+"long_name": "Maharashtra",
+"short_name": "MH",
+"types": [
+"administrative_area_level_1",
+"political"
+]
+},
+{
+"long_name": "India",
+"short_name": "IN",
+"types": [
+"country",
+"political"
+]
+}
+],
+"adr_address": "<span class=\"extended-address\">Khandala</span>, <span class=\"locality\">Lonavala</span>, <span class=\"region\">Maharashtra</span>, <span class=\"country-name\">India</span>",
+"formatted_address": "Khandala, Lonavala, Maharashtra, India",
+"geometry": {
+"location": {
+"lat": 18.7692034,
+"lng": 73.3767641
+},
+"viewport": {
+"northeast": {
+"lat": 18.7912019,
+"lng": 73.401805
+},
+"southwest": {
+"lat": 18.747818,
+"lng": 73.361778
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+"id": "ad884129c09c513654bd13f80461783d21384808",
+"name": "Khandala",
+"photos": [
+{
+"height": 3264,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/107485447825904655531/photos\">Sandeep Saha</a>"
+],
+"photo_reference": "CmRaAAAA5Y3TsurzbLhx3fu-S4PW6eAmX10JMRb1vb29zW95yA0VbMrcyw2dhjKTvQEIQRYob55Aee5oEKQsag7hlqgFMNuNrlT0nl9HdZ93Msrnepmud1CONfo8L_HLaHWf7rSBEhAr1oQQ0Rii-AuOs1n_1mZgGhTDVLdi5ukdNSJfFvMEFR0H6UZuVg",
+"width": 4928
+},
+{
+"height": 1200,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/117728928285585249734/photos\">Vikas Nale</a>"
+],
+"photo_reference": "CmRaAAAAIZriQ3YNcHHwIU-Z1SJBhp79xbWb9RfwcqiH6FDMFN-Hk49pGDfr4N3uOMuy1Ls-YwmB_ykjsaxeDgvRX7EGLekJwLP1FCLGdcq8QIqvlbQsCVGQ8pBxwDczIQsh8y-_EhCY9QRf1vFRHdqexco_fy4cGhQwHq-8-TAWmV3BPI6CyE5spDNcKQ",
+"width": 1600
+},
+{
+"height": 3000,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/108543044787885016121/photos\">Arunscreation</a>"
+],
+"photo_reference": "CmRaAAAAov2VcRFbN89GD8zrSFj1mPxBFHNsB2yuvMr3bLJ6fxUockswwsZmty5fCAfTgTFEDGiwqVmtzlSKGXQ-qHsKfsisCvkdKet8nMWojPoep0iA9oMjPPuHzrxPBF1vpiMLEhAA7ROMgiD19FE1u3C48NyFGhRPI-mEGt1L_gDN2HRQh2MoqcJhrw",
+"width": 4000
+},
+{
+"height": 3000,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/108543044787885016121/photos\">Arunscreation</a>"
+],
+"photo_reference": "CmRaAAAAhugfsbf-sCaQTaXcL2IT0sroUNBTzQ26M7u61olIaoP_bW921ChingOQVugeWtSlrQETzzJxBwCGRvBTOpYV8KEbAdQ9modzI7DJ8ruDMfN5zbHYEF6ID6iK48xh9LB7EhBv75u8jezbNTnbN-aAey0OGhSgC4P_084D-kCRWcIb51QRBVBGFA",
+"width": 4000
+},
+{
+"height": 1152,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/100223333469490563843/photos\">Chetan Nimonkar</a>"
+],
+"photo_reference": "CmRaAAAA-Zw0T-gyA6NyJvPU93HUSCaJ6yQCaPBGeP1kqhz1ECoITZi62uKFLwBCK-fO-6ltCN3ndkpm7wUNKWEzg8niC5VUsjidg6ETdPJ2xWyHqYitADpL4P8dxgXddpZKpT8wEhARxfZQBCwNvykK4tVuHFCIGhQ2E-bFzpybfz51G41GwEq3v5z5aA",
+"width": 2048
+},
+{
+"height": 3000,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/108543044787885016121/photos\">Arunscreation</a>"
+],
+"photo_reference": "CmRaAAAAR7nz5xNtaWzhGTi7LaVtuhM3WnhVKPbO1jSTacSBiL_J5sccq0QZVAC-KU9MgHZL4oAhOSOulmUTvmupsdfC4kHo5O9I8SgULhOZTepi823WwPxCXpECS3-sFdX8YwF1EhBMI_NJ_hh6mIDQKsgp7JeEGhQo8k9IwNEmjAmMPFCi8seSbxGcUw",
+"width": 4000
+},
+{
+"height": 864,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/108793067763524978498/photos\">Surendra Sheoran</a>"
+],
+"photo_reference": "CmRaAAAAveQtDMiAr2Lbmgiep--3SLZulR99B_vCuRYSaPjq88cH85Fs6LwxGL_1Lo-GsAnYhAtOJKFOKuva12W4whnA_5BYHIwdjx_9VNISdb_Y9_--0iylNiN7ESqxambK3q3UEhCIvw0Sk5ZTtYbqhDDe5oVfGhT9m8iQXZtp_yVBNnUOLiJz8eLLhg",
+"width": 1073
+},
+{
+"height": 3000,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/108543044787885016121/photos\">Arunscreation</a>"
+],
+"photo_reference": "CmRaAAAAtJ0ezRgVqwqN9_TAIOdFIa9UWI2vBoaRMS7YvCNd0jfEc7UBIlJI4S22tgZm7ux7kcbnYjXxTLPYVIjMPSyaAwnOT2J-0h3Sao_YxKc5PyNEoxOCNDnX3axC2xLlmsWzEhCIZbZtcUB4B558brSPTZ25GhQEjHA2u4cJQe0ughfzOULJ3eswMQ",
+"width": 4000
+},
+{
+"height": 1200,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/117728928285585249734/photos\">Vikas Nale</a>"
+],
+"photo_reference": "CmRaAAAAu8OqYyEVVn3vdI8JQnodxGmus7Zh9_xQ8vMgVf2vfqxOyW4XqT_1y0L2AUTbcZjrH5GZI-fAChyWYGXnIHmk8ifVCuMbSqBYGDCoJNrKOAZ1I74fyfGDlj3P1kxh9K6HEhCWPsQ0wV57e9v_8zsHO4cVGhTlfRsrg3e_tlRECcYFfu7S0EOikg",
+"width": 1600
+},
+{
+"height": 1280,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/100819529587493900040/photos\">Deepti Ranjan Sahu</a>"
+],
+"photo_reference": "CmRZAAAA2g6QUvzJAkGef5_ppPyKSQU0X3lNbzbyMzvy9IYeL5i9WEKRCXLQjEp8wje2RTn5j25xbuycLWE6CoB7jdc1xDCkBC0Slf_aTmidS2iyyHjGKZauPSuw2zcIQRBcUigFEhA2JSUPmnghI_Wg_g7cRxpoGhRzQml6tJ73WRDMSNqSIxvtP2AvmQ",
+"width": 720
+}
+],
+"place_id": "ChIJvdzC9SoB6DsR2ZtKYC1zmk4",
+"reference": "CmRbAAAAGdyG4xZ52xu1sqtIH0pvAEAFkv1-Yv4bXtHUcA4NxZ7CHtzMgIgQjOd_j5ijSs00bk-f2Czko3t2HZ4ev1M1bxSiiolqjHM0lbsMFYULHXvP19Qb3yGsa8GMcMhY3pdhEhA1MXMo_sCTg4kdKpdBktHbGhSja50_aqtlepiGwqUsOadc5xDe-A",
+"scope": "GOOGLE",
+"types": [
+"sublocality_level_1",
+"sublocality",
+"political"
+],
+"url": "https://maps.google.com/?q=Khandala,+Lonavala,+Maharashtra,+India&ftid=0x3be8012af5c2dcbd:0x4e9a732d604a9bd9",
+"utc_offset": 330,
+"vicinity": "Khandala"
+},
+"status": "OK"
+}
