@@ -1,0 +1,45 @@
+{
+"html_attributions": [],
+"results": [
+{
+"geometry": {
+"location": {
+"lat": 28.6139391,
+"lng": 77.2090212
+},
+"viewport": {
+"northeast": {
+"lat": 28.65048,
+"lng": 77.3449601
+},
+"southwest": {
+"lat": 28.4041,
+"lng": 77.07301009999999
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+"id": "910e9ee78403c6726e140168f78ca0fb0063bcc8",
+"name": "New Delhi",
+"photos": [
+{
+"height": 768,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/101622635351242679897/photos\">DuKR A</a>"
+],
+"photo_reference": "CmRaAAAACMUlqH5SEckgaorAG9PivDmSa-Fmwr4NwwoJ393s2ibzr1c7taz1RZsskKo8kSQz8YAFmmA1ORvLPATY6Sp1W7hzBS5SFkXCy2odlo9LsQ8KcsjYenLkdB5uKt0WcLCzEhB4llljF3Rmk_nEuW9Pp5EGGhTbxGlAsXViqBYbYxiCwfPPR678aQ",
+"width": 1160
+}
+],
+"place_id": "ChIJLbZ-NFv9DDkRzk0gTkm3wlI",
+"reference": "CmRbAAAAQivoiUBozW6U2o8qFMKwrN6SUm8aMwXPSIIO1_trHVkI2UiYokajKWCGw1nItKpTxlGuINqL3O3w7V0yl9VtNBDgIG7gDKNed76YRhMhJhmgRa785lVtekymdyhkWpPnEhD_VSkU5EjxzammMuQsP8KaGhQHZ3QbtJ3445AalwNhZ-ryD5vvaA",
+"scope": "GOOGLE",
+"types": [
+"locality",
+"political"
+],
+"vicinity": "Delhi, India"
+}
+],
+"status": "OK"
+}
