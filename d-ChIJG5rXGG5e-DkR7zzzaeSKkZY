@@ -56,6 +56,18 @@
 "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
 "id": "5cfebf2536382bd7c481a9b84653c729c4dcbae9",
 "name": "Telakona",
+"opening_hours": {
+"open_now": true,
+"periods": [
+{
+"open": {
+"day": 0,
+"time": "0000"
+}
+}
+]
+"weekday_text": []
+},
 "place_id": "ChIJG5rXGG5e-DkR7zzzaeSKkZY",
 "reference": "CmRbAAAAmlsig91MRCvqirt8btebTWWj9r7eNJ3NpG9ldwYLyh2fIkd7p88ANkJ-vrzMlDYKpCWEov-hFSAdr5SDE_Q3DTR8IBp8jTeHCpj6rVdGKMVwfpAifCfyIDG9iOlorugSEhCNtn8I1l7-VsBc-3nPxr5HGhR60BywUK7yzgkTdB7GrsKVvS5w_g",
 "scope": "GOOGLE",
