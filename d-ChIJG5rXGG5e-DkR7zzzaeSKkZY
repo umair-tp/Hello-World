@@ -1,83 +1,87 @@
-{
-"html_attributions": [],
-"result": {
-"address_components": [
-{
-"long_name": "Telakona",
-"short_name": "Telakona",
-"types": [
-"locality",
-"political"
-]
-},
-{
-"long_name": "Hooghly",
-"short_name": "Hooghly",
-"types": [
-"administrative_area_level_2",
-"political"
-]
-},
-{
-"long_name": "West Bengal",
-"short_name": "WB",
-"types": [
-"administrative_area_level_1",
-"political"
-]
-},
-{
-"long_name": "India",
-"short_name": "IN",
-"types": [
-"country",
-"political"
-]
-}
-],
-"adr_address": "<span class=\"locality\">Telakona</span>, <span class=\"region\">West Bengal</span>, <span class=\"country-name\">India</span>",
-"formatted_address": "Telakona, West Bengal, India",
-"geometry": {
-"location": {
-"lat": 23.0233668,
-"lng": 88.10528049999999
-},
-"viewport": {
-"northeast": {
-"lat": 23.0248599,
-"lng": 88.10708009999999
-},
-"southwest": {
-"lat": 23.01705,
-"lng": 88.0932899
-}
-}
-},
-"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
-"id": "5cfebf2536382bd7c481a9b84653c729c4dcbae9",
-"name": "Telakona",
-"opening_hours": {
-"open_now": true,
-"periods": [
-{
-"open": {
-"day": 0,
-"time": "0000"
-}
-}
-]
-"weekday_text": []
-},
-"place_id": "ChIJG5rXGG5e-DkR7zzzaeSKkZY",
-"reference": "CmRbAAAAmlsig91MRCvqirt8btebTWWj9r7eNJ3NpG9ldwYLyh2fIkd7p88ANkJ-vrzMlDYKpCWEov-hFSAdr5SDE_Q3DTR8IBp8jTeHCpj6rVdGKMVwfpAifCfyIDG9iOlorugSEhCNtn8I1l7-VsBc-3nPxr5HGhR60BywUK7yzgkTdB7GrsKVvS5w_g",
-"scope": "GOOGLE",
-"types": [
-"locality",
-"political"
-],
-"url": "https://maps.google.com/?q=Telakona,+West+Bengal,+India&ftid=0x39f85e6e18d79a1b:0x96918ae469f33cef",
-"utc_offset": 330,
-"vicinity": "Telakona"
-},
-"status": "OK"
+{  
+   "html_attributions":[  
+
+   ],
+   "result":{  
+      "address_components":[  
+         {  
+            "long_name":"Telakona",
+            "short_name":"Telakona",
+            "types":[  
+               "locality",
+               "political"
+            ]
+         },
+         {  
+            "long_name":"Hooghly",
+            "short_name":"Hooghly",
+            "types":[  
+               "administrative_area_level_2",
+               "political"
+            ]
+         },
+         {  
+            "long_name":"West Bengal",
+            "short_name":"WB",
+            "types":[  
+               "administrative_area_level_1",
+               "political"
+            ]
+         },
+         {  
+            "long_name":"India",
+            "short_name":"IN",
+            "types":[  
+               "country",
+               "political"
+            ]
+         }
+      ],
+      "adr_address":"<span class=\"locality\">Telakona</span>, <span class=\"region\">West Bengal</span>, <span class=\"country-name\">India</span>",
+      "formatted_address":"Telakona, West Bengal, India",
+      "geometry":{  
+         "location":{  
+            "lat":23.0233668,
+            "lng":88.10528049999999
+         },
+         "viewport":{  
+            "northeast":{  
+               "lat":23.0248599,
+               "lng":88.10708009999999
+            },
+            "southwest":{  
+               "lat":23.01705,
+               "lng":88.0932899
+            }
+         }
+      },
+      "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id":"5cfebf2536382bd7c481a9b84653c729c4dcbae9",
+      "name":"Telakona",
+      "opening_hours":{  
+         "open_now":true,
+         "periods":[  
+            {  
+               "open":{  
+                  "day":0,
+                  "time":"0000"
+               }
+            }
+         ],
+         "weekday_text":[  
+
+         ]
+      },
+      "place_id":"ChIJG5rXGG5e-DkR7zzzaeSKkZY",
+      "reference":"CmRbAAAAmlsig91MRCvqirt8btebTWWj9r7eNJ3NpG9ldwYLyh2fIkd7p88ANkJ-vrzMlDYKpCWEov-hFSAdr5SDE_Q3DTR8IBp8jTeHCpj6rVdGKMVwfpAifCfyIDG9iOlorugSEhCNtn8I1l7-VsBc-3nPxr5HGhR60BywUK7yzgkTdB7GrsKVvS5w_g",
+      "scope":"GOOGLE",
+      "types":[  
+         "locality",
+         "political"
+      ],
+      "url":"https://maps.google.com/?q=Telakona,+West+Bengal,+India&ftid=0x39f85e6e18d79a1b:0x96918ae469f33cef",
+      "utc_offset":330,
+      "vicinity":"Telakona"
+   },
+   "status":"OK"
 }
