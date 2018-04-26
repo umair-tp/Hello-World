@@ -1,0 +1,45 @@
+{
+"html_attributions": [],
+"results": [
+{
+"geometry": {
+"location": {
+"lat": 18.5204303,
+"lng": 73.8567437
+},
+"viewport": {
+"northeast": {
+"lat": 18.6357545,
+"lng": 73.9864569
+},
+"southwest": {
+"lat": 18.4134784,
+"lng": 73.7394779
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+"id": "b53b6db33aaf3aa06dc661e9b2631735f3d484f1",
+"name": "Pune",
+"photos": [
+{
+"height": 2988,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/117099018255258381560/photos\">Fee Anor</a>"
+],
+"photo_reference": "CmRaAAAA0r9DH5B5bCeeE3i1OFPbSc0N4esivPCqYRX-zwSIiAYhrYWmLWk7Vc5EdEMptPfh1MJqaDR5LsuVIDzen1ZvITGy98bfPE8-4cKA6xpp4OUa_fRNukAuyZ_M59FnazBYEhC_F0vDHJlwCfo7NX4QXAFKGhQyiVZ75bJoEVhwN204Zd4uNSQr7Q",
+"width": 5312
+}
+],
+"place_id": "ChIJARFGZy6_wjsRQ-Oenb9DjYI",
+"reference": "CmRbAAAA7_DK-d-QpgOIsKiAiTMqQC3XgOM65pH9ov2rAmdwJ4eBeT6p2gJUo-X0JND_ysFdV2HG0J0SrDEpHNQkqmsZvPZPO_kIKe7xYc8UTfqS9PGE0VP98YgtgKmXS23PTRXfEhCyqYSgnxD1w5voVRYIxVDjGhRRWaNGyDWY7I96KkwGIipQSnY2zw",
+"scope": "GOOGLE",
+"types": [
+"locality",
+"political"
+],
+"vicinity": "Maharashtra, India"
+}
+],
+"status": "OK"
+}
