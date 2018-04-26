@@ -89,6 +89,9 @@
 "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
 "id": "04e05576488e0b8150c048cf3713352e55bc31ec",
 "name": "Tatanagar Jn",
+"opening_hours" : {
+            "open_now" : true
+         },
 "photos": [
 {
 "height": 3096,
