@@ -1,0 +1,47 @@
+{
+"html_attributions": [],
+"results": [
+{
+"geometry": {
+"location": {
+"lat": 22.7679095,
+"lng": 86.20106299999999
+},
+"viewport": {
+"northeast": {
+"lat": 22.76925932989272,
+"lng": 86.20241282989271
+},
+"southwest": {
+"lat": 22.76655967010728,
+"lng": 86.19971317010726
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+"id": "04e05576488e0b8150c048cf3713352e55bc31ec",
+"name": "Tatanagar Jn",
+"photos": [
+{
+"height": 3096,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/116482140596806362732/photos\">Sushil Kumar Mahto</a>"
+],
+"photo_reference": "CmRaAAAAp1u1fglTDUSvrNeDNiWRKzN9f_gw6CLkl2sBs3fVqpO7r3uxbrBurwTqgCLXJ-22tLJM5h-EeDtxcS9ojIeWRakWoP-vPAsGTxQjMKwZVtEeT5tAL14_RfuDhp0UOEYbEhC2AhbhsyBsmCidx-G-Ta1YGhSoaTyWVV-wU1a1cviaiVSbyKXg0A",
+"width": 4128
+}
+],
+"place_id": "ChIJ8eocezPj9TkRC92WohBssBI",
+"rating": 4.1,
+"reference": "CmRbAAAAjfUP6Srya8MrKcLIjiLxxvfa0czg_rhKgTWhMoGROE7cKYl6OtgKG1aTMDPFcdyUo8JO369BkpFldi5P3BGf91lHrTpbLT-mEjWv6ziFLAle7C8U5J5LSJAEO5mkcPGlEhCpNIh1H0YMVUloAPdU4AU9GhQ6Exnr-Fqcm_--OxswyonOpw_AAw",
+"scope": "GOOGLE",
+"types": [
+"transit_station",
+"point_of_interest",
+"establishment"
+],
+"vicinity": "Tata Nagar, Khasmahal, Jugsalai, Jamshedpur"
+}
+],
+"status": "OK"
+}
